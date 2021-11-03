@@ -1,6 +1,7 @@
 version: 2
 updates:
 - package-ecosystem: github-actions
+  target-branch: bump-actions/setup-go
   directory: /
   schedule:
     interval: daily
